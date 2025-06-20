@@ -32,7 +32,7 @@ A minimalistic note-taking app inspired by Google Keep.
 📷 Screenshots
 
 ![Desktop View](screenshots/image1.png)
-![Desktop View](image.png)
+![Desktop View](screenshots/image2.png)
 
 ---
 
@@ -46,4 +46,4 @@ Follow the journey and give it a ⭐️ if you like it!
 🙌 Creator
 
 Iffat Sattar – MERN Stack Developer  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/iffat12375) 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/iffat-sattar-134b62182/) 
